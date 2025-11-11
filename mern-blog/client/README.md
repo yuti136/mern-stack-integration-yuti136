@@ -10,7 +10,7 @@ This project demonstrates RESTful API development, front-end integration, and de
 ## 🚀 Live Demo
 
 - **Frontend (Deployed on Vercel):** https://mern-stack-integration-yuti136-n5y3.vercel.app/ . Also runs locally on  http://localhost:5173/
-- **Backend (Deployed on Render):** https://mern-stack-integration-yuti136.onrender.com/api  Also running locally at http://localhost:5000.
+- **Backend (Deployed on Render):** https://mern-stack-integration-yuti136.onrender.com/  Also running locally at http://localhost:5000.
 
 ---
 
