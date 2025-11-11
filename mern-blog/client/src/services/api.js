@@ -1,7 +1,8 @@
 // src/services/api.js
 
 // 🔹 Backend API URL
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "https://mern-stack-integration-yuti136.onrender.com/api";
+console.log("🌐 API_BASE is:", API_BASE);
 
 /**
  * 🔐 Fetch Clerk JWT token from the browser
